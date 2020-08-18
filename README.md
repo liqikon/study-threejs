@@ -2,7 +2,8 @@
 ## h2
 ### h3
 
--[  ] todo list
+- [ ] todo list
+- [x] todo check
 
 list
 -list
